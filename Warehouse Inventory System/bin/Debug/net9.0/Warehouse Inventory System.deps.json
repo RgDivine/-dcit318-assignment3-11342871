@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Warehouse Inventory System/1.0.0": {
+        "runtime": {
+          "Warehouse Inventory System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Warehouse Inventory System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
