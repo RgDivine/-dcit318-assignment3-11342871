@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCare System", "Health
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warehouse Inventory System", "Warehouse Inventory System\Warehouse Inventory System.csproj", "{8C8A34FE-A3CA-456C-B6CD-9C0CAC46F5C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School Grading System", "School Grading System\School Grading System.csproj", "{5B8FB86D-1AEB-41E6-A460-63AA0BD8EE36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{8C8A34FE-A3CA-456C-B6CD-9C0CAC46F5C9}.Release|x64.Build.0 = Release|Any CPU
 		{8C8A34FE-A3CA-456C-B6CD-9C0CAC46F5C9}.Release|x86.ActiveCfg = Release|Any CPU
 		{8C8A34FE-A3CA-456C-B6CD-9C0CAC46F5C9}.Release|x86.Build.0 = Release|Any CPU
+		{5B8FB86D-1AEB-41E6-A460-63AA0BD8EE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8FB86D-1AEB-41E6-A460-63AA0BD8EE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8FB86D-1AEB-41E6-A460-63AA0BD8EE36}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5B8FB86D-1AEB-41E6-A460-63AA0BD8EE36}.Debug|x64.Build.0 = Debug|Any CPU
+		{5B8FB86D-1AEB-41E6-A460-63AA0BD8EE36}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5B8FB86D-1AEB-41E6-A460-63AA0BD8EE36}.Debug|x86.Build.0 = Debug|Any CPU
+		{5B8FB86D-1AEB-41E6-A460-63AA0BD8EE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8FB86D-1AEB-41E6-A460-63AA0BD8EE36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8FB86D-1AEB-41E6-A460-63AA0BD8EE36}.Release|x64.ActiveCfg = Release|Any CPU
+		{5B8FB86D-1AEB-41E6-A460-63AA0BD8EE36}.Release|x64.Build.0 = Release|Any CPU
+		{5B8FB86D-1AEB-41E6-A460-63AA0BD8EE36}.Release|x86.ActiveCfg = Release|Any CPU
+		{5B8FB86D-1AEB-41E6-A460-63AA0BD8EE36}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

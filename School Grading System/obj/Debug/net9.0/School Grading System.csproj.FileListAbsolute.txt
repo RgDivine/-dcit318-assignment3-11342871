@@ -1,0 +1,15 @@
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\School Grading System\bin\Debug\net9.0\School Grading System.exe
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\School Grading System\bin\Debug\net9.0\School Grading System.deps.json
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\School Grading System\bin\Debug\net9.0\School Grading System.runtimeconfig.json
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\School Grading System\bin\Debug\net9.0\School Grading System.dll
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\School Grading System\bin\Debug\net9.0\School Grading System.pdb
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\School Grading System\obj\Debug\net9.0\School Grading System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\School Grading System\obj\Debug\net9.0\School Grading System.AssemblyInfoInputs.cache
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\School Grading System\obj\Debug\net9.0\School Grading System.AssemblyInfo.cs
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\School Grading System\obj\Debug\net9.0\School Grading System.csproj.CoreCompileInputs.cache
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\School Grading System\obj\Debug\net9.0\School Grading System.sourcelink.json
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\School Grading System\obj\Debug\net9.0\School Grading System.dll
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\School Grading System\obj\Debug\net9.0\refint\School Grading System.dll
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\School Grading System\obj\Debug\net9.0\School Grading System.pdb
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\School Grading System\obj\Debug\net9.0\School Grading System.genruntimeconfig.cache
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\School Grading System\obj\Debug\net9.0\ref\School Grading System.dll

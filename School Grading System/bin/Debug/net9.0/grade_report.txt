@@ -1,0 +1,18 @@
+=== Student Grade Report ===
+Generated on: 2025-08-14 10:58:36
+Total Students: 7
+
+Alice Smith (ID: 101): Score = 84, Grade = A
+Bob Johnson (ID: 102): Score = 76, Grade = B
+Charlie Brown (ID: 103): Score = 92, Grade = A
+Diana Ross (ID: 104): Score = 68, Grade = C
+Edward Norton (ID: 105): Score = 45, Grade = F
+Fiona Apple (ID: 106): Score = 88, Grade = A
+George Lucas (ID: 107): Score = 55, Grade = D
+
+=== Grade Distribution ===
+A: 3 students
+B: 1 students
+C: 1 students
+D: 1 students
+F: 1 students

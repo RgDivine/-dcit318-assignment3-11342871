@@ -1,0 +1,7 @@
+101,Alice Smith,84
+102,Bob Johnson,76
+103,Charlie Brown,92
+104,Diana Ross,68
+105,Edward Norton,45
+106,Fiona Apple,88
+107,George Lucas,55
