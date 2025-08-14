@@ -1,0 +1,15 @@
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\Finance Management Sydtem\bin\Debug\net9.0\Finance Management Sydtem.exe
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\Finance Management Sydtem\bin\Debug\net9.0\Finance Management Sydtem.deps.json
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\Finance Management Sydtem\bin\Debug\net9.0\Finance Management Sydtem.runtimeconfig.json
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\Finance Management Sydtem\bin\Debug\net9.0\Finance Management Sydtem.dll
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\Finance Management Sydtem\bin\Debug\net9.0\Finance Management Sydtem.pdb
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\Finance Management Sydtem\obj\Debug\net9.0\Finance Management Sydtem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\Finance Management Sydtem\obj\Debug\net9.0\Finance Management Sydtem.AssemblyInfoInputs.cache
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\Finance Management Sydtem\obj\Debug\net9.0\Finance Management Sydtem.AssemblyInfo.cs
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\Finance Management Sydtem\obj\Debug\net9.0\Finance Management Sydtem.csproj.CoreCompileInputs.cache
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\Finance Management Sydtem\obj\Debug\net9.0\Finance Management Sydtem.sourcelink.json
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\Finance Management Sydtem\obj\Debug\net9.0\Finance Management Sydtem.dll
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\Finance Management Sydtem\obj\Debug\net9.0\refint\Finance Management Sydtem.dll
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\Finance Management Sydtem\obj\Debug\net9.0\Finance Management Sydtem.pdb
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\Finance Management Sydtem\obj\Debug\net9.0\Finance Management Sydtem.genruntimeconfig.cache
+C:\Users\boadi\OneDrive - University of Ghana\Desktop\3\-dcit318-assignment3-11342871\Finance Management Sydtem\obj\Debug\net9.0\ref\Finance Management Sydtem.dll
